@@ -1,2 +1,1 @@
-# latihan-branch
-Modul "Belajar Dasar Git &amp; Github"
+Ini adalah repository untuk latihan membuat branch baru di GitHub
